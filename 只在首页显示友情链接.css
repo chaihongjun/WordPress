@@ -1,0 +1,4 @@
+#blog-roll {width: 908px;padding:15px;margin:0 auto;}
+#blog-roll ul {float:left;margin:0px;}
+#blog-roll li {list-style:none;width:75px;margin:0px10px10px10px;float:left;}
+#blog-roll a {color: #9FB47E;text-decoration: none;}
